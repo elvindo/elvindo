@@ -8,6 +8,6 @@
 ⚡ Fun fact: 3 hours sleep <br/>
 📫 Feel free to reach me out mochammadelvindo26@gmail.com <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvindo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/elvindo/github-readme-stats)
 
 
