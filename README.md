@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Front end Mobile Developing, and IoT <br/> <br/>
 🌱 I’m currently learning Mobile Apps Development Kotlin, and Web Development <br/> <br/>
-💬 Ask me about C++. Kotlin, and Pyhton <br/> <br/>
+💬 Ask me about C++. Kotlin, and Python <br/> <br/>
 ⚡ Fun fact: 3 hours sleep <br/> <br/>
 📫 Feel free to reach me out mochammadelvindo26@gmail.com <br/> <br/>
 
